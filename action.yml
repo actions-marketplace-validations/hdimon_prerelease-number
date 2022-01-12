@@ -1,5 +1,5 @@
 name: 'Prerelease Number Generator'
-description: 'Generate sequential prerelease numbers for prefix (master, dev, v1, 1.0, 1.0.0, etc...) and prerelease type (alpha, beta, etc...)'
+description: 'Generate sequential prerelease numbers for prefix and prerelease type'
 author: 'Dmitry Khlybov'
 runs:
   using: 'node12'
